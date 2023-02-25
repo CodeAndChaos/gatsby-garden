@@ -30,7 +30,7 @@ In this example, `my-garden` is the name of your site. You can test it using thi
 
 ```
 cd my-garden
-npm install --legacy-peer-deps
+npm install 
 npm run develop
 ```
 
